@@ -153,7 +153,7 @@
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-90" value="Product Specifications" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-19">
           <mxGeometry x="30" y="10" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NvMcUgs_BNHPPYeCeXAh-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.11;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NvMcUgs_BNHPPYeCeXAh-19">
+        <mxCell id="NvMcUgs_BNHPPYeCeXAh-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.11;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;strokeWidth=4;strokeColor=light-dark(#ff2600, #ededed);" edge="1" parent="NvMcUgs_BNHPPYeCeXAh-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="-40" as="sourcePoint" />
             <mxPoint x="310" y="128" as="targetPoint" />
@@ -163,13 +163,13 @@
           <mxGeometry y="620" width="1620" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-91" value="Configure Environments" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-20">
-          <mxGeometry x="70" y="10" width="190" height="20" as="geometry" />
+          <mxGeometry x="50" y="10" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-92" value="Tooling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-20">
-          <mxGeometry x="150" y="40" width="110" height="20" as="geometry" />
+          <mxGeometry x="130" y="40" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-93" value="Initial Backlogs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-20">
-          <mxGeometry x="150" y="70" width="110" height="20" as="geometry" />
+          <mxGeometry x="130" y="70" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-95" value="Orchestration Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;fontColor=light-dark(#ffffff, #ededed);" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-20">
           <mxGeometry x="290" y="10" width="500" height="20" as="geometry" />
@@ -185,6 +185,15 @@
         </mxCell>
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-101" value="Extend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-20">
           <mxGeometry x="450" y="70" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NvMcUgs_BNHPPYeCeXAh-102" value="}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=69;" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-20">
+          <mxGeometry x="220" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NvMcUgs_BNHPPYeCeXAh-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.667;exitY=0.667;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="NvMcUgs_BNHPPYeCeXAh-20" source="NvMcUgs_BNHPPYeCeXAh-102" target="NvMcUgs_BNHPPYeCeXAh-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="-35" as="sourcePoint" />
+            <mxPoint x="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-21" value="Finance" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="NvMcUgs_BNHPPYeCeXAh-1">
           <mxGeometry y="740" width="1620" height="120" as="geometry" />
@@ -238,6 +247,12 @@
         </mxCell>
         <mxCell id="NvMcUgs_BNHPPYeCeXAh-78" value="M11" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1410" y="10" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NvMcUgs_BNHPPYeCeXAh-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NvMcUgs_BNHPPYeCeXAh-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="680" as="sourcePoint" />
+            <mxPoint x="330" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
